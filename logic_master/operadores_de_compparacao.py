@@ -1,0 +1,6 @@
+# == igual a (Verifica se o valor de ambos os lados são iguais)
+# != diferente de (Verifica se o valor de ambos os lados são diferentes)
+# > maior que (Verifica se o valor do lado esquerdo é maior que o do lado direito)
+# < menor que (Verifica se o valor do lado esquerdo é menor que o do lado direito)
+# >= maior ou igual a (Verifica se o valor do lado esquerdo é maior ou igual ao do lado direito)
+# <= menor ou igual a (Verifica se o valor do lado esquerdo é menor ou igual ao do lado direito)
